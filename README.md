@@ -13,7 +13,7 @@
 - **Other Tools**: Webpack, Vite, Jest, Cypress
 
 ## 📈 My GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=msy979&show_icons=true&theme=rad)
 
 ## 🌟 Featured Projects
 ### 1. [E-commerce Dashboard](https://github.com/your-repo)
