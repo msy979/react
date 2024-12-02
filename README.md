@@ -13,62 +13,49 @@
 - **Other Tools**: Webpack, Vite, Jest, Cypress
 
 ## 📈 My GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=msy979&show_icons=true&theme=rad)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=msy979&show_icons=true&theme=radical)
 
 ## 🌟 Featured Projects
-### 1. [E-commerce Dashboard](https://github.com/your-repo)
+### 1. [E-commerce Dashboard](https://github.com/msy979/e-commerce-dashboard)
 A full-featured React + Redux-based admin dashboard for managing e-commerce data.
 - **Tech**: React, Redux, TailwindCSS, REST API
 
-### 2. [Real-Time Chat App](https://github.com/your-repo)
+### 2. [Real-Time Chat App](https://github.com/msy979/real-time-chat)
 A fully responsive Angular-based real-time chat application.
 - **Tech**: Angular, RxJS, WebSocket, SCSS
 
-### 3. [JavaScript Algorithm Visualizer](https://github.com/your-repo)
+### 3. [JavaScript Algorithm Visualizer](https://github.com/msy979/js-algo-visualizer)
 A visual representation of sorting algorithms, showcasing animations and complexity.
 - **Tech**: Vanilla JavaScript, HTML5, CSS3
 
 ---
 
-#### **2. Project Ideas to Showcase**
-Build projects that highlight your skills across frameworks and tools:
+### Featured Projects
+Here are some project ideas to showcase your skills:
 
-1. **Portfolio Website**:  
-   A fully responsive personal portfolio built using Angular or React to showcase your experience, blog posts, and projects.
+1. **Portfolio Website**  
+   - Build a responsive portfolio using React or Angular.
+   - Showcase animations, custom SCSS, and a dynamic project list.
 
-2. **E-commerce Platform**:  
-   - Features: Product listing, filtering, cart management, and payment integration.  
-   - Tools: React/Redux or Angular, REST APIs, and SCSS.
+2. **E-commerce Platform**  
+   - Implement features like user authentication, product management, and payment integration.
+   - Use REST APIs or GraphQL for the backend.
 
-3. **Task Management App**:  
-   A drag-and-drop Kanban-style task manager with authentication.  
-   - Tools: React/Redux Toolkit, Material-UI.
+3. **Data Visualization Dashboard**  
+   - Create a dashboard with real-time data updates using React, D3.js, and Chart.js.
 
-4. **Data Visualization Dashboard**:  
-   Create a dashboard showing complex data with charts, graphs, and real-time updates.  
-   - Tools: React, D3.js, Chart.js, and APIs.
+4. **Real-Time Chat App**  
+   - Build a chat application using WebSockets and RxJS.
+   - Add features like user status, typing indicators, and message persistence.
 
-5. **Real-Time Chat App**:  
-   Integrate WebSocket for live communication.  
-   - Tools: Angular, RxJS, and Firebase.
-
-6. **Responsive Design Showcase**:  
-   Build a project showcasing modern CSS/SCSS techniques (grid, flexbox, animations).
-
-7. **JavaScript Game**:  
-   Develop a browser-based game (e.g., Tic Tac Toe or Snake) to showcase core JavaScript.
+5. **Interactive Game**  
+   - Develop a browser-based game like Snake or Chess using vanilla JavaScript or React.
 
 ---
 
-#### **3. Best Practices for GitHub Profile**
-- **Well-Documented Code**: Add README.md files for each project with clear descriptions, setup instructions, and screenshots.
-- **Consistent Commits**: Showcase active engagement with regular commits.
-- **Highlight Collaboration**: Include open-source contributions or collaborative projects.
-- **Use GitHub Features**:
-  - Pin your best repositories to the top.
-  - Add GitHub Actions for CI/CD pipelines.
-  - Include live demo links for deployed projects.
+### Next Steps
+- Pin your best repositories to your GitHub profile.
+- Add detailed `README.md` files for each project.
+- Use GitHub Actions to automate deployments or CI/CD.
 
----
-
-Let me know if you'd like help with any specific project or GitHub customization!
+Let me know if you need assistance with setting up specific projects or templates!
